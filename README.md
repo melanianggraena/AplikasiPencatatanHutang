@@ -1,2 +1,2 @@
 # AplikasiPencatatanHutang
-aplikasi pencatatan hutang dengan JavaGUI berbasis OOP (inheritence,interface,dan polymorphism).
+aplikasi pencatatan hutang JavaGUI dengan database serta menerapkan OOP (inheritence,interface,dan polymorphism).
